@@ -7,7 +7,7 @@ Summary:	Sphinx themes for Pylons Project documentation
 Summary(pl.UTF-8):	Motywy Sphinksa do dokumentacji z projektu Pylons
 Name:		python-pylons-sphinx-themes
 Version:	1.0.13
-Release:	3
+Release:	4
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pylons-sphinx-themes/
